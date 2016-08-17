@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Martin Smith	email.com	@martin
 
 # THANKS
 
