@@ -2,7 +2,7 @@
 
 This is a simple website project for
 showing how to use Git and Github together. Adding text for
-rebase example.
+rebase example, then more changed from my feature branch to.
 
 ##Introduction
 
