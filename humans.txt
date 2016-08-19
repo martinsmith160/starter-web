@@ -8,6 +8,7 @@
 # THANKS
 
     All my students, more text for a commit
+	Please leave a review if you like this coarse.
 
 # TECHNOLOGY COLOPHON
 
